@@ -1,69 +1,69 @@
-Olist E-commerce Sales Analysis & Forecasting
+# **Olist E-commerce Sales Analysis & Forecasting**
 
-Project Overview
+## **Project Overview**
 
 A collaborative data analytics project completed as part of the Generation UK Data Analytics Bootcamp. Working as the team lead, I led a team in analysing the Olist Brazilian e-commerce dataset to explore historical sales performance, identify trends and patterns, and investigate sales forecasting.
 
 The project involved applying data analysis and visualisation techniques to transform raw data into meaningful insights that could support business understanding and decision-making.
 
-Objectives
+## **Objectives**
 
-Analyse historical e-commerce sales performance.
+- Analyse historical e-commerce sales performance.
 
-Identify trends and patterns in sales data.
+- Identify trends and patterns in sales data.
 
-Explore customer purchasing behaviour and business performance.
+- Explore customer purchasing behaviour and business performance.
 
-Investigate sales forecasting using historical data.
+- Investigate sales forecasting using historical data.
 
-Present analytical findings through data visualisation.
+- Present analytical findings through data visualisation.
 
-Tools & Technologies
+## **Tools & Technologies**
 
-Python: Data analysis and manipulation.
+- **Python**: Data analysis and manipulation
 
-SQL: Data querying and extraction.
+- **SQL**: Data querying and extraction
 
-Excel: Data exploration and analysis.
+- **Excel**: Data exploration and analysis
 
-Power BI: Data visualisation and dashboard development.
+- **Power BI**: Data visualisation and dashboard development
 
-Project Approach
+## **Project Approach**
 
 The project followed a data analytics workflow:
 
-Data Exploration: Examining the Olist dataset to understand its structure and identify relevant variables.
+- Data Exploration: Examining the Olist dataset to understand its structure and identify relevant variables.
 
-Data Preparation: Preparing and organising data for analysis.
+- Data Preparation: Preparing and organising data for analysis.
 
-Data Analysis: Investigating historical sales performance and identifying trends and patterns.
+- Data Analysis: Investigating historical sales performance and identifying trends and patterns.
 
-Sales Forecasting: Exploring historical sales data to support forecasting.
+- Sales Forecasting: Exploring historical sales data to support forecasting.
 
-Data Visualisation: Using Power BI to communicate findings and present insights.
+- Data Visualisation: Using Power BI to communicate findings and present insights.
 
-My Role – Team Lead
+## **My Role – Team Lead**
 
-As team lead, I was responsible for coordinating the collaborative project, supporting the organisation of tasks and contributing to the analytical work. I worked with the team to analyse the dataset, investigate sales trends and communicate our findings.
+ As team lead, I was responsible for coordinating the collaborative project, supporting the organisation of tasks and contributing to the analytical work. I worked with the team to analyse the dataset, investigate sales trends and communicate our findings.
 
-Key Skills Demonstrated
+## **Key Skills Demonstrated**
 
-Data analysis and interpretation
+- Data analysis and interpretation
 
-Data cleaning and preparation
+- Data cleaning and preparation
 
-SQL querying
+- SQL querying
 
-Python programming
+- Python programming
 
-Excel analysis
+- Excel analysis
 
-Power BI reporting and visualisation
+- Power BI reporting and visualisation
 
-Sales trend analysis and forecasting
+- Sales trend analysis and forecasting
 
-Team leadership and collaboration
+- Team leadership and collaboration
 
-Programme
+## **Programme**
 
-Generation UK – Data Analytics Bootcamp
+**Generation UK** – Data Analytics Bootcamp
